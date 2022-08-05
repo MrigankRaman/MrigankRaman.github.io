@@ -1,7 +1,7 @@
 ---
 title: "Learning Contextualized Knowledge Structures for Commonsense Reasoning"
 collection: publications
-permalink: /publications/QAGNN
+permalink: /publication/QAGNN
 excerpt:
 date: 2021-10-01
 venue: 'ACL-IJCNLP'
