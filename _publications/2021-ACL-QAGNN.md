@@ -1,7 +1,7 @@
 ---
 title: "Learning Contextualized Knowledge Structures for Commonsense Reasoning"
 collection: publications
-permalink: https://github.com/INK-USC/HGN
+permalink: /publications/QAGNN
 excerpt:
 date: 2021-10-01
 venue: 'ACL-IJCNLP'
