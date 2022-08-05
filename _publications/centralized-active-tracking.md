@@ -1,7 +1,7 @@
 ---
 title: "Centralized active tracking of a Markov chain with unknown dynamics"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/centralized-active-tracking
 excerpt:
 date: 2009-10-01
 venue: 'IEEE MASS 2020'
