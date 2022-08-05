@@ -8,4 +8,4 @@ venue: 'ICLR'
 paperurl: 'https://openreview.net/pdf?id=b7g3_ZMHnT0'
 ---
 
-Jun Yan, Mrigank Raman, Aaron Chan, Tianyu Zhang, Ryan Rossi, Handong Zhao, Sungchul Kim, Nedim Lipka, Xiang Ren
+Mrigank Raman, Aaron Chan, Siddhant Agarwal, PeiFeng Wang, Hansen Wang, Sungchul Kim, Ryan Rossi, Handong Zhao, Nedim Lipka, Xiang Ren
