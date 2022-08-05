@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Mathematics and Computing, IIT Delhi, 2021
+* M.S. in Machine Learning, Carnegie Mellon University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Research Intern
+  * University of Southern California
+  * Duties included: NLP research
+  * Supervisor: Professor [Xiang Ren](https://shanzhenren.github.io/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2021 - May 2022: Quantitative Researcher
+  * Quadeye Securities LLP
+  * Duties included: Researching High Frequency Trading Algorithms
+
+* Summer 2022: Research Intern
+  * FedML.ai
+  * Duties included: Creating Federated ML applications
   
 Skills
 ======
